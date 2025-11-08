@@ -45,7 +45,7 @@ A **single-page responsive React web application** built using **Vite** and **CS
 ## ⚙️ Installation and Setup Instructions
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/krishnaagarwal12345/ez-frontend.git
 cd ez-frontend
 
