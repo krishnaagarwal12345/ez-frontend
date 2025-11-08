@@ -68,10 +68,10 @@ npm run deploy
 https://vernanbackend.ezlab.in/api/contact-us/
 
 
-#### Method:
+### Method:
 POST
 
-####Sample Request Body:
+### Sample Request Body:
 
 {
   "name": "Test User",
@@ -81,7 +81,7 @@ POST
 }
 
 
-#### Expected Success Response (200):
+### Expected Success Response (200):
 
 {
   "created_at": "2025-10-10T05:27:59.371578Z",
