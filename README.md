@@ -61,6 +61,7 @@ npm run build
 ### 5️⃣ Deploy to GitHub Pages
 npm run deploy
 
+
 ## 📩 API Integration
 
 #### Endpoint:
@@ -93,12 +94,15 @@ POST
   "updated_at": "2025-10-10T05:27:59.371598Z"
 }
 
+
 ## 🧠 Validation Use Cases
 Validation	Description
 Empty fields	Not allowed
 Email validation	Regex used to verify email structure
 API response	“✅ Form Submitted Successfully” on success
 API failure	Displays appropriate error message
+
+
 
 ## ⚠️ Note for Evaluators
 
@@ -109,8 +113,12 @@ For testing, a mock API (https://reqres.in/api/users
 
 All validation, submission, and status handling are working perfectly on the frontend.
 
+
+
 ## 🌐 Live Project Link
 https://krishnaagarwal12345.github.io/ez-frontend/
+
+
 
 ## 🧩 Folder Structure
 ez-frontend/
@@ -128,6 +136,8 @@ ez-frontend/
 ├── vite.config.js
 └── README.md
 
+
+
 ## 🚀 Approach & Learnings
 
 Learned how React components interact and manage state using hooks like useState.
@@ -140,7 +150,9 @@ Deployed a production-ready React app using GitHub Pages.
 
 Gained confidence in building front-end applications from scratch.
 
-##💬 Contact
+
+
+## 💬 Contact
 
 ### 📧 krishnaa1420037@gmail.com
 
