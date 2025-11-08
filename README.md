@@ -49,29 +49,29 @@ A **single-page responsive React web application** built using **Vite** and **CS
 git clone https://github.com/krishnaagarwal12345/ez-frontend.git
 cd ez-frontend
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 npm install
 
-3️⃣ Run development server
+### 3️⃣ Run development server
 npm run dev
 
-4️⃣ Build for production
+### 4️⃣ Build for production
 npm run build
 
-5️⃣ Deploy to GitHub Pages
+### 5️⃣ Deploy to GitHub Pages
 npm run deploy
 
-📩 API Integration
+## 📩 API Integration
 
-Endpoint:
+#### Endpoint:
 
 https://vernanbackend.ezlab.in/api/contact-us/
 
 
-Method:
+#### Method:
 POST
 
-Sample Request Body:
+####Sample Request Body:
 
 {
   "name": "Test User",
@@ -81,7 +81,7 @@ Sample Request Body:
 }
 
 
-Expected Success Response (200):
+#### Expected Success Response (200):
 
 {
   "created_at": "2025-10-10T05:27:59.371578Z",
@@ -93,13 +93,14 @@ Expected Success Response (200):
   "updated_at": "2025-10-10T05:27:59.371598Z"
 }
 
-🧠 Validation Use Cases
+## 🧠 Validation Use Cases
 Validation	Description
 Empty fields	Not allowed
 Email validation	Regex used to verify email structure
 API response	“✅ Form Submitted Successfully” on success
 API failure	Displays appropriate error message
-⚠️ Note for Evaluators
+
+## ⚠️ Note for Evaluators
 
 The contact form and API integration are implemented exactly as per instructions.
 However, the given backend API currently returns an HTTP 404 Not Found error.
@@ -108,11 +109,11 @@ For testing, a mock API (https://reqres.in/api/users
 
 All validation, submission, and status handling are working perfectly on the frontend.
 
-🌐 Live Project Link
+## 🌐 Live Project Link
 
-👉 View Live Demo on GitHub Pages
+## 👉 View Live Demo on GitHub Pages
 
-🧩 Folder Structure
+## 🧩 Folder Structure
 ez-frontend/
 │
 ├── src/
@@ -128,7 +129,7 @@ ez-frontend/
 ├── vite.config.js
 └── README.md
 
-🚀 Approach & Learnings
+## 🚀 Approach & Learnings
 
 Learned how React components interact and manage state using hooks like useState.
 
@@ -140,8 +141,8 @@ Deployed a production-ready React app using GitHub Pages.
 
 Gained confidence in building front-end applications from scratch.
 
-💬 Contact
+### 💬 Contact
 
-📧 krishnaa1420037@gmail.com
+### 📧 krishnaa1420037@gmail.com
 
-🔗 GitHub Profile
+### 🔗 GitHub Profile
