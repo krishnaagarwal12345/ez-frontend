@@ -110,8 +110,7 @@ For testing, a mock API (https://reqres.in/api/users
 All validation, submission, and status handling are working perfectly on the frontend.
 
 ## 🌐 Live Project Link
-
-## 👉 View Live Demo on GitHub Pages
+https://krishnaagarwal12345.github.io/ez-frontend/
 
 ## 🧩 Folder Structure
 ez-frontend/
@@ -141,7 +140,7 @@ Deployed a production-ready React app using GitHub Pages.
 
 Gained confidence in building front-end applications from scratch.
 
-### 💬 Contact
+##💬 Contact
 
 ### 📧 krishnaa1420037@gmail.com
 
